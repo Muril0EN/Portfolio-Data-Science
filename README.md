@@ -27,6 +27,6 @@
 
 ## Extras:
 
-- [**Implantando gráficos utilizando o matplotlib**](https://github.com/vinihora/portfolio_data_science/blob/main/extras/plotting_data_with_matplotlib.ipynb)
+- [****]()
 
 ---
