@@ -17,9 +17,9 @@
 
 ## Projetos:
 
-- [Análise de imóveis no Rio de Janeiro - Airbnb]()
-- [Análise de probabilidade de sobrevivência no Titanic]()
-- [Análise do desempenho do Brasil durante o combate ao COVID-19]()
+- []()
+- []()
+- []()
 
 ## Artigos:
 
