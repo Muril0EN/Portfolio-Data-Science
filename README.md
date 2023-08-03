@@ -6,8 +6,7 @@
 
 # Murilo Esteves Nogueira
 
-<sub>Mestre em Saúde, matemático em formação e cientista de dados. Alguém que respira conhecimento e é apaixonado por aleatoriedade e neurociência.</sub>
-
+<p>Mestre em Saúde, matemático em formação e cientista de dados. Alguém que respira conhecimento e é apaixonado por aleatoriedade e neurociência.</p>
 
 **Background in:** Python, Machine Learning, Matemática e C.
 
@@ -22,8 +21,8 @@
 - [Estatítica descritiva](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Estat%C3%ADstica_descritiva)
 - [Tratamento e análise de dados com biblioteca Pandas](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Pandas_tratamento_an%C3%A1lise)
 - [Distribuição de probabilidade e técnicas de amostragem](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Probabilidade_amostragem)
-- [Técnicas de regressão linear_parte II](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Regress%C3%A3o-linear-II)
 - [Técnicas de regressão linear_parte I](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Regress%C3%A3o_linear_I)
+- [Técnicas de regressão linear_parte II](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Regress%C3%A3o-linear-II)
 - [Testes de hipóteses](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/Teste_de_hipoteses)
 - [Análise de experimentos](https://github.com/Muril0EN/Portif-lio-Data-Science/tree/main/An%C3%A1lise_experimentos)
   
